@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="greenfire-core-model" />
+        <module name="greenfire-test" />
+        <module name="greenfire-common-util" />
+        <module name="greenfire-common-service-cache" />
+        <module name="greenfire-core-service" />
+        <module name="greenfire-biz-shared" />
+        <module name="greenfire-common-service-database" />
+        <module name="deploy" />
+        <module name="greenfire-biz-service-impl" />
+        <module name="greenFire" />
+        <module name="greenfire-web-standard" />
+        <module name="assembly" />
+        <module name="greenfire-common-service-integration" />
+        <module name="greenfire-web-home" />
+        <module name="greenfire-common-service-facade" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>
